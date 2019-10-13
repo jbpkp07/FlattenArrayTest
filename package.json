@@ -1,0 +1,20 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "Flatten whiteboard test",
+  "main": "flatten.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeremy Barnes",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
